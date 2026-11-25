@@ -141,3 +141,5 @@ npm run preview
 5. **Edit a Product:** Click **"Edit"** on any item. A confirmation modal appears. Confirming redirects you to the form with all fields pre-filled and the button updated to **"Update Product"**. After updating, the item is modified in-place with no duplicates.
 6. **Delete a Product:** Click **"Delete"** on any item. A confirmation modal asks *"Are you sure you want to delete this product?"*. Confirming removes only that product from inventory and Local Storage.
 7. **Verify Dashboard & Persistence:** Switch to **"Dashboard"** to see your updated metrics (Total Products, Total Quantity, Available Categories, Low Stock alerts, and Recent Products). Refresh the browser to confirm all changes remain intact.
+
+# SellersDashboards
