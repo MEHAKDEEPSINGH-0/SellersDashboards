@@ -15,3 +15,4 @@ test('formatDate formats timestamps gracefully', () => {
   assert.ok(result.length > 0, 'Formatted date should not be empty');
   assert.strictEqual(formatDate(null), 'Just now');
 });
+
